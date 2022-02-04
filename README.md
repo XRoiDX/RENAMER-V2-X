@@ -63,7 +63,9 @@ Press the following button to deploy in heroku.
 
 - `OWNER_ID:` Your Telegram user id, Get this value from [@MissRose_bot](https://telegram.dog/MissRose_bot)
 
+•`MONGODB_URI:`MongoDB Database URI for Saving UserID for Broadcast
 
+•`LOG_CHANNEL:`Logs Channel ID for some Tracking XD. Example: -100123456789
 
 
 ## Available Commands 🤖
