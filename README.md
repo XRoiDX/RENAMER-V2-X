@@ -55,6 +55,7 @@ Press the following button to deploy in heroku.
 
 
 ## Required Vars 💥
+---
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org).
 
 - `API_KEY:` Get this value from [my.telegram.org](https://my.telegram.org).
@@ -67,7 +68,11 @@ Press the following button to deploy in heroku.
 
 •`LOG_CHANNEL:`Logs Channel ID for some Tracking XD. Example: -100123456789
 
+•`DOWNLOAD_DIR:`Files download path. You can keep default. Should not end with '/'
 
+•`BROADCAST_AS_COPY:`Broadcast as Copy or with Forward Tag. Value should be True/False
+
+---
 ## Available Commands 🤖
 ```
 start - Start Bot
