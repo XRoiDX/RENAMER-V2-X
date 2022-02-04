@@ -12,10 +12,10 @@
 
 <p align="center">
     <a href="https://github.com/XRoiDX/RENAMER-V2-X"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=FFC75F&logo=codacy&logoColor=FFC75F&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/XRoiDX/RENAMER-V2-X"> <img src="https://img.shields.io/github/repo-size/dakshkohli23/New-TG-Rename-Bot?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
-    <a href="https://github.com/XRoiDX/RENAMER-V2-X/commits"> <img src="https://img.shields.io/github/last-commit/dakshkohli23/New-TG-Rename-Bot?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
-    <a href="https://github.com/XRoiDX/RENAMER-V2-X/issues"> <img src="https://img.shields.io/github/issues/dakshkohli23/New-TG-Rename-Bot?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
-    <a href="https://github.com/XRoiDX/RENAMER-V2-X/network/members"> <img src="https://img.shields.io/github/forks/dakshkohli23/New-TG-Rename-Bot?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>  
+    <a href="https://github.com/XRoiDX/RENAMER-V2-X"> <img src="https://img.shields.io/github/repo-size/XRoiDX/RENAMER-V2-X?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
+    <a href="https://github.com/XRoiDX/RENAMER-V2-X/commits"> <img src="https://img.shields.io/github/last-commit/XRoiDX/RENAMER-V2-X?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
+    <a href="https://github.com/XRoiDX/RENAMER-V2-X/issues"> <img src="https://img.shields.io/github/issues/XRoiDX/RENAMER-V2-X?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>
+    <a href="https://github.com/XRoiDX/RENAMER-V2-X/network/members"> <img src="https://img.shields.io/github/forks/XRoiDX/RENAMER-V2-X?color=FFC75F&logo=github&logoColor=FFC75F&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=FFC75F&label=telethon&logo=python&logoColor=FFC75F&style=for-the-badge" /></a>
 </p>
 
